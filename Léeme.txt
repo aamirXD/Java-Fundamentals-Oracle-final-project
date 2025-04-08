@@ -1,3 +1,3 @@
-Este repositorio contiene un zip llamado "Java_Oracle" este contiene todo el proyecto de java ant para poder modificarse o importarse a un IDE.
-También incluye dentro otro zip con el nombre de "Proyecto_final_JFO", este es el ejecutable del programa (Necesario tener instalado 
+Este repositorio contiene un zip llamado "Java_Oracle" este contiene todo el proyecto de Java Ant para poder modificarse o importarse
+a un IDE que soporte Java. Dentro de la carpeta "Proyecto_final_JFO" se encuentra el ejecutable .jar(Necesario tener instalado 
 previamente el Java y el XAMPP como mínimo).
